@@ -1,0 +1,16 @@
+{
+    "name": "amacgregor/phpml-exercise",
+    "description": "Example implementation of a Tweet sentiment analysis with PHP-ML",
+    "type": "project",
+    "require": {
+        "php-ai/php-ml": "^0.4.1"
+    },
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Allan MacGregor",
+            "email": "amacgregor@allanmacgregor.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
