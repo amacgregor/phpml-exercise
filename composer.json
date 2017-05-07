@@ -12,5 +12,8 @@
             "email": "amacgregor@allanmacgregor.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"PhpmlExercise\\": "src/"}
+    },
     "minimum-stability": "dev"
 }
